@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "show_after": "2025-03-20",
   "force_update": false,
   "title": "Update Available",
